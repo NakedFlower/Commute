@@ -1,0 +1,29 @@
+# 환경변수 파일 (민감한 정보 포함)
+.env
+
+# Excel 출력 파일
+attendance.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
